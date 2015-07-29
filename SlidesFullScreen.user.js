@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Slides Full Screen
 // @namespace    http://slides.com/
-// @version      0.1
+// @version      0.2
 // @description  Enable F5 to toggle full screen, use CTRL+F5 to reload the page
 // @match        http://slides.com/*/live
 // @author       uda
 // @license      MIT; http://opensource.org/licenses/MIT
-// @copyright    2014, Yehuda Deutsch (http://0x59.net/)
+// @copyright    2015, Yehuda Deutsch (http://0x59.net/)
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
